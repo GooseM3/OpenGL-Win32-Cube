@@ -32,3 +32,5 @@ build.bat
 start.bat
 ```
 
+## Watch the Program in Action
+![Cube Animation](https://github.com/GooseM3/OpenGL-Win32-Cube/raw/main/cube.gif)
