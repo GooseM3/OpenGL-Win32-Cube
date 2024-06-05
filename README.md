@@ -18,7 +18,7 @@ as possible and tried to download as little as possible.
 
 ## Installation
 - To Start you need set the correct file path insde setup.bat
-- it should look something like the ```call "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Auxiliary\Build\vcvars64.bat"```, but it will depend on where you have it installed. 
+- it should look something like the ```call "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Auxiliary\Build\vcvars64.bat"``` or ```call "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\Build\vcvars64.bat"```, but it will depend on where you have it installed. 
 ```sh
 setup.bat
 ```
