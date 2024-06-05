@@ -1,4 +1,4 @@
-namespace Renderer
+namespace Render
 {
     unsigned int vaoHandle;
     unsigned int vboHandle;
